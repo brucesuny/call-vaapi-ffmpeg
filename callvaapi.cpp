@@ -1,6 +1,8 @@
 /*********************************************************************
 testvaapi: directly call vaapi of ffmpeg3.2.4 codec module to encode H264 bitstream.
-Author:BruceSun,  Data:2017.3.8
+Author:BruceSun
+Data:2017.3.8
+function:use for test vaapi encoder 
 ***********************************************************************/
 
 extern "C"
